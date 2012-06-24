@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE syntax SYSTEM "syntax.dtd"[
+<!ENTITY LANGNAME "gherkin">
+<!ENTITY EOL "[\n\r]">
+<!-- keywords generated on 2012-96-24 -->
+<!ENTITY FEATURE "Feature|Business\ Need|Ability|خاصية|Fungsi|Функционалност|Característica|Funcionalitat|Arwedd|Požadavek|Egenskab|Funktionalität|Crikey|OH\ HAI|Ahoy\ matey!|Trajto|Omadus|Ominaisuus|Fonctionnalité|תכונה|Osobina|Mogućnost|Mogucnost|Jellemző|Fitur|Eiginleiki|Funzionalità|フィーチャ|機能|기능|Savybė|Funktionalitéit|Funkcionalitāte|Fīča|Functionaliteit|Egenskap|Właściwość|Funkcja|Aspekt|Potrzeba\ biznesowa|Funcionalidade|Caracteristica|Functionalitate|Funcționalitate|Funcţionalitate|Функция|Функционал|Свойство|Požiadavka|Funkcionalnost|Могућност|Особина|Özellik|Функціонал|Tính\ năng|功能">
+<!ENTITY BACKGROUND "Background|الخلفية|Latar\ Belakang|Предистория|Rerefons|Antecedents|Cefndir|Pozadí|Kontext|Baggrund|Grundlage|B4|Yo\-ho\-ho|Dis\ is\ what\ went\ down|Fono|Antecedentes|Taust|Tausta|Contexte|רקע|Pozadina|Háttér|Dasar|Bakgrunnur|Contesto|背景|배경|Kontekstas|Hannergrond|Konteksts|Situācija|Achtergrond|Bakgrunn|Założenia|Contexto|Cenário\ de\ Fundo|Cenario\ de\ Fundo|Fundo|Context|Предыстория|Контекст|Bakgrund|Pozadie|Kontekst|Osnova|Основа|Позадина|Geçmiş|Передумова|Тарих|Bối\ cảnh">
+<!ENTITY SCENARIO "Scenario|سيناريو|Senario|Сценарий|Escenari|Scénář|Scenarie|Szenario|Mate|MISHUN|Heave\ to|The\ thing\ of\ it\ is|Scenaro|Escenario|Stsenaarium|Tapaus|Scénario|תרחיש|Scenarij|Forgatókönyv|Skenario|Atburðarás|シナリオ|시나리오|Scenarijus|Scenārijs|Scenariusz|Cenário|Cenario|Scenariu|Scenár|Primer|Сценарио|Пример|Senaryo|Сценарій|Tình\ huống|Kịch\ bản|场景|剧本|場景|劇本">
+<!ENTITY SCENARIO_OUTLINE "Scenario\ Outline|Scenario\ Template|سيناريو\ مخطط|Menggariskan\ Senario|Рамка\ на\ сценарий|Esquema\ de\ l'escenari|Scenario\ Amlinellol|Náčrt\ Scénáře|Osnova\ scénáře|Abstrakt\ Scenario|Szenariogrundriss|Blokes|MISHUN\ SRSLY|Shiver\ me\ timbers|Wharrimean\ is|All\ y'all|Konturo\ de\ la\ scenaro|Esquema\ del\ escenario|Raamstsenaarium|Tapausaihio|Plan\ du\ scénario|Plan\ du\ Scénario|תבנית\ תרחיש|Skica|Koncept|Forgatókönyv\ vázlat|Skenario\ konsep|Lýsing\ Atburðarásar|Lýsing\ Dæma|Schema\ dello\ scenario|シナリオアウトライン|シナリオテンプレート|テンプレ|シナリオテンプレ|시나리오\ 개요|Scenarijaus\ šablonas|Plang\ vum\ Szenario|Scenārijs\ pēc\ parauga|Abstract\ Scenario|Scenariomal|Szablon\ scenariusza|Esquema\ do\ Cenário|Esquema\ do\ Cenario|Delineação\ do\ Cenário|Delineacao\ do\ Cenario|Structura\ scenariu|Structură\ scenariu|Структура\ сценария|Scenariomall|Náčrt\ Scenáru|Struktura\ scenarija|Структура\ сценарија|Скица|Концепт|Senaryo\ taslağı|Структура\ сценарію|Сценарий\ структураси|Khung\ tình\ huống|Khung\ kịch\ bản|场景大纲|剧本大纲|場景大綱|劇本大綱">
+<!ENTITY EXAMPLES "Examples|Scenarios|امثلة|Contoh|Примери|Exemples|Enghreifftiau|Příklady|Eksempler|Beispiele|Cobber|EXAMPLZ|Dead\ men\ tell\ no\ tales|Ekzemploj|Ejemplos|Juhtumid|Tapaukset|דוגמאות|Primjeri|Scenariji|Példák|Dæmi|Atburðarásir|Esempi|例|サンプル|예|Pavyzdžiai|Scenarijai|Variantai|Beispiller|Piemēri|Paraugs|Voorbeelden|Przykłady|Exemplos|Cenários|Cenarios|Exemple|Примеры|Exempel|Príklady|Primeri|Сценарији|Örnekler|Приклади|Мисоллар|Dữ\ liệu|例子">
+<!ENTITY GIVEN "\*\s|Given\s|بفرض\s|Bagi\s|Дадено\s|Donat\s|Donada\s|Atès\s|Atesa\s|Anrhegedig\ a\s|Pokud\s|Givet\s|Angenommen\s|Gegeben\ sei\s|Ya\ know\ how\s|I\ CAN\ HAZ\s|Gangway!\s|Givun\s|Youse\ know\ when\ youse\ got\s|Given\ y'all\s|Donitaĵo\s|Dado\s|Dada\s|Dados\s|Dadas\s|Eeldades\s|Oletetaan\s|Soit\s|Etant\ donné\s|Etant\ donnée\s|Etant\ donnés\s|Etant\ données\s|Étant\ donné\s|Étant\ donnée\s|Étant\ donnés\s|Étant\ données\s|בהינתן\s|Zadan\s|Zadani\s|Zadano\s|Amennyiben\s|Adott\s|Dengan\s|Ef\s|Dato\s|Data\s|Dati\s|Date\s|前提|조건|먼저|Duota\s|ugeholl\s|Kad\s|Gegeven\s|Stel\s|Gitt\s|Zakładając\s|Mając\s|Date\ fiind\s|Dat\ fiind\s|Dati\ fiind\s|Dați\ fiind\s|Daţi\ fiind\s|Допустим\s|Дано\s|Пусть\s|Pokiaľ\s|Zadato\s|Zadate\s|Zatati\s|Задато\s|Задате\s|Задати\s|Diyelim\ ki\s|Припустимо\s|Припустимо,\ що\s|Нехай\s|Агар\s|Biết\s|Cho\s|假如|假设|假定|假設">
+<!ENTITY WHEN "\*\s|When\s|متى\s|عندما\s|Apabila\s|Когато\s|Quan\s|Pryd\s|Když\s|Når\s|Wenn\s|WEN\s|Blimey!\s|Wun\s|Youse\ know\ like\ when\s|When\ y'all\s|Se\s|Cuando\s|Kui\s|Kun\s|Quand\s|Lorsque\s|Lorsqu'|כאשר\s|Kada\s|Kad\s|Majd\s|Ha\s|Amikor\s|Ketika\s|Þegar\s|Quando\s|もし|만일|만약|Kai\s|wann\s|Ja\s|Als\s|Jeżeli\s|Jeśli\s|Gdy\s|Kiedy\s|Cand\s|Când\s|Если\s|Когда\s|När\s|Keď\s|Када\s|Кад\s|Eğer\ ki\s|Якщо\s|Коли\s|Агар\s|Khi\s|当|當">
+<!ENTITY THEN "\*\s|Then\s|اذاً\s|ثم\s|Kemudian\s|То\s|Aleshores\s|Cal\s|Yna\s|Pak\s|Så\s|Dann\s|Ya\ gotta\s|DEN\s|Let\ go\ and\ haul\s|Dun\s|Den\ youse\ gotta\s|Then\ y'all\s|Do\s|Entonces\s|Siis\s|Niin\s|Alors\s|אז\s|אזי\s|Onda\s|Akkor\s|Maka\s|Þá\s|Allora\s|ならば|그러면|Tada\s|dann\s|Tad\s|Dan\s|Wtedy\s|Então\s|Entao\s|Atunci\s|Тогда\s|Tak\s|Онда\s|O\ zaman\s|Тоді\s|Унда\s|Thì\s|那么|那麼">
+<!ENTITY AND "\*\s|And\s|و\s|Dan\s|И\s|I\s|A\s|A\ také\s|Og\s|Und\s|N\s|AN\s|Aye\s|An\s|And\ y'all\s|Kaj\s|Y\s|Ja\s|Et\s|וגם\s|És\s|E\s|かつ|그리고|Ir\s|an\s|a\s|Un\s|En\s|Oraz\s|Si\s|Și\s|Şi\s|К\ тому\ же\s|Och\s|Ve\s|І\s|А\ також\s|Та\s|Ва\s|Và\s|而且|并且|同时|並且|同時">
+<!ENTITY BUT "\*\s|But\s|لكن\s|Tetapi\s|Но\s|Però\s|Ond\s|Ale\s|Men\s|Aber\s|Cept\s|BUT\s|Avast!\s|Buh\s|But\ y'all\s|Sed\s|Pero\s|Kuid\s|Mutta\s|Mais\s|אבל\s|Ali\s|De\s|Tapi\s|En\s|Ma\s|しかし|但し|ただし|하지만|단|Bet\s|awer\s|mä\s|Maar\s|Mas\s|Dar\s|А\s|Али\s|Fakat\s|Ama\s|Але\s|Лекин\s|Бирок\s|Аммо\s|Nhưng\s|但是">
+]>
+<syntax>
+  <head>
+    <name>&LANGNAME;</name>
+    <charsintokens><![CDATA[_0987654321abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@#%.]]>
+    </charsintokens>
+    <charsdelimitingtokens><![CDATA[ ]]></charsdelimitingtokens>
+  </head>
+  <states>
+    <default id="Base"
+      scope="meta.default"
+      usesymbolsfrommode="&LANGNAME;" useautocompletefrommode="&LANGNAME;">
+
+      <keywords id="&LANGNAME; keywords"
+        scope="markup.tag.&LANGNAME;" 
+        useforautocomplete="no">
+          <regex>(&FEATURE;)\:</regex>
+          <regex>(&BACKGROUND;)\:</regex>
+          <regex>(&SCENARIO;)\:</regex>
+          <regex>(&SCENARIO_OUTLINE;)\:</regex>
+          <regex>(&EXAMPLES;)\:</regex>
+      </keywords>
+
+      <state id="&LANGNAME; steps wrapper">
+        <begin><regex>(?:&SCENARIO;|&BACKGROUND;|&SCENARIO_OUTLINE;)\:</regex></begin>
+        <end><regex>\z</regex></end>
+        <keywords id="&LANGNAME; step keywords"
+          scope="markup.tag.attribute.name.&LANGNAME;"
+          useforautocomplete="no" >
+          <regex>^\s*(&GIVEN;)</regex>
+          <regex>^\s*(&WHEN;)\b</regex>
+          <regex>^\s*(&THEN;)</regex>
+          <regex>^\s*(&AND;)</regex>
+          <regex>^\s*(&BUT;)</regex>
+        </keywords>
+        <import />
+      </state>
+
+      <keywords id="&LANGNAME; tag" type="comment"
+        scope="markup.comment.&LANGNAME;"
+        useforautocomplete="no">
+          <regex>^\s*(@\w+)\b</regex>
+      </keywords>
+
+      <state id="Comment" type="comment"
+        scope="comment.line.&LANGNAME;"
+        useforautocomplete="no">
+          <begin><regex>#</regex></begin>
+          <end><regex>&EOL;</regex></end>
+          <import mode="Base" state="EmailAndURLContainerState" keywords-only="yes"/>
+      </state>
+
+      <state id="&LANGNAME; string" type="string" 
+        scope="string.double.&LANGNAME;"
+        useforautocomplete="no" usespellchecking="yes">
+          <begin><regex>"</regex></begin>
+          <end><regex>(?&lt;!\\)(\\\\)*"</regex></end>
+      </state>
+
+      <state id="&LANGNAME; multiline string" type="string"
+        scope="string.double.&LANGNAME;.multiline"
+        useforautocomplete="no" usespellchecking="yes" foldable="yes">
+          <begin><regex>\"\"\"</regex></begin>
+          <end><regex>\"\"\"</regex></end>
+      </state>
+
+      <state id="&LANGNAME; variables" 
+        scope="language.variable.&LANGNAME;"
+        useforautocomplete="no" >
+          <begin><regex>&lt;</regex></begin>
+          <end><regex>&gt;</regex></end>
+      </state>
+
+      <state id="&LANGNAME; table" 
+        scope="support.&LANGNAME;.table">
+          <begin><regex>^\s*\|</regex></begin>
+          <end><regex>\|\s*&EOL;</regex></end>
+      </state>
+
+    </default>
+  </states>
+</syntax>

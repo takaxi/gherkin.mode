@@ -1,0 +1,495 @@
+Feature: 
+Business Need: 
+Ability: 
+خاصية: 
+Fungsi: 
+Функционалност: 
+Característica: 
+Funcionalitat: 
+Arwedd: 
+Požadavek: 
+Egenskab: 
+Funktionalität: 
+Crikey: 
+OH HAI: 
+Ahoy matey!: 
+Trajto: 
+Omadus: 
+Ominaisuus: 
+Fonctionnalité: 
+תכונה: 
+Osobina: 
+Mogućnost: 
+Mogucnost: 
+Jellemző: 
+Fitur: 
+Eiginleiki: 
+Funzionalità: 
+フィーチャ: 
+Savybė: 
+Funktionalitéit: 
+Funkcionalitāte: 
+Fīča: 
+Functionaliteit: 
+Egenskap: 
+Właściwość: 
+Funkcja: 
+Aspekt: 
+Potrzeba biznesowa: 
+Funcionalidade: 
+Caracteristica: 
+Functionalitate: 
+Funcționalitate: 
+Funcţionalitate: 
+Функция: 
+Функционал: 
+Свойство: 
+Požiadavka: 
+Funkcionalnost: 
+Могућност: 
+Особина: 
+Özellik: 
+Функціонал: 
+Tính năng: 
+Background: 
+الخلفية: 
+Latar Belakang: 
+Предистория: 
+Rerefons: 
+Antecedents: 
+Cefndir: 
+Pozadí: 
+Kontext: 
+Baggrund: 
+Grundlage: 
+Yo-ho-ho: 
+Dis is what went down: 
+Fono: 
+Antecedentes: 
+Taust: 
+Tausta: 
+Contexte: 
+רקע: 
+Pozadina: 
+Háttér: 
+Dasar: 
+Bakgrunnur: 
+Contesto: 
+Kontekstas: 
+Hannergrond: 
+Konteksts: 
+Situācija: 
+Achtergrond: 
+Bakgrunn: 
+Założenia: 
+Contexto: 
+Cenário de Fundo: 
+Cenario de Fundo: 
+Fundo: 
+Context: 
+Предыстория: 
+Контекст: 
+Bakgrund: 
+Pozadie: 
+Kontekst: 
+Osnova: 
+Основа: 
+Позадина: 
+Geçmiş: 
+Передумова: 
+Тарих: 
+Bối cảnh: 
+Scenario: 
+سيناريو: 
+Senario: 
+Сценарий: 
+Escenari: 
+Scénář: 
+Scenarie: 
+Szenario: 
+Mate: 
+MISHUN: 
+Heave to: 
+The thing of it is: 
+Scenaro: 
+Escenario: 
+Stsenaarium: 
+Tapaus: 
+Scénario: 
+תרחיש: 
+Scenarij: 
+Forgatókönyv: 
+Skenario: 
+Atburðarás: 
+シナリオ: 
+시나리오: 
+Scenarijus: 
+Scenārijs: 
+Scenariusz: 
+Cenário: 
+Cenario: 
+Scenariu: 
+Scenár: 
+Primer: 
+Сценарио: 
+Пример: 
+Senaryo: 
+Сценарій: 
+Tình huống: 
+Kịch bản: 
+Scenario Outline: 
+Scenario Template: 
+سيناريو مخطط: 
+Menggariskan Senario: 
+Рамка на сценарий: 
+Esquema de l'escenari: 
+Scenario Amlinellol: 
+Náčrt Scénáře: 
+Osnova scénáře: 
+Abstrakt Scenario: 
+Szenariogrundriss: 
+Blokes: 
+MISHUN SRSLY: 
+Shiver me timbers: 
+Wharrimean is: 
+All y'all: 
+Konturo de la scenaro: 
+Esquema del escenario: 
+Raamstsenaarium: 
+Tapausaihio: 
+Plan du scénario: 
+Plan du Scénario: 
+תבנית תרחיש: 
+Skica: 
+Koncept: 
+Forgatókönyv vázlat: 
+Skenario konsep: 
+Lýsing Atburðarásar: 
+Lýsing Dæma: 
+Schema dello scenario: 
+シナリオアウトライン: 
+シナリオテンプレート: 
+テンプレ: 
+シナリオテンプレ: 
+시나리오 개요: 
+Scenarijaus šablonas: 
+Plang vum Szenario: 
+Scenārijs pēc parauga: 
+Abstract Scenario: 
+Scenariomal: 
+Szablon scenariusza: 
+Esquema do Cenário: 
+Esquema do Cenario: 
+Delineação do Cenário: 
+Delineacao do Cenario: 
+Structura scenariu: 
+Structură scenariu: 
+Структура сценария: 
+Scenariomall: 
+Náčrt Scenáru: 
+Struktura scenarija: 
+Структура сценарија: 
+Скица: 
+Концепт: 
+Senaryo taslağı: 
+Структура сценарію: 
+Сценарий структураси: 
+Khung tình huống: 
+Khung kịch bản: 
+场景大纲: 
+剧本大纲: 
+場景大綱: 
+劇本大綱: 
+Examples: 
+Scenarios: 
+امثلة: 
+Contoh: 
+Примери: 
+Exemples: 
+Enghreifftiau: 
+Příklady: 
+Eksempler: 
+Beispiele: 
+Cobber: 
+EXAMPLZ: 
+Dead men tell no tales: 
+Ekzemploj: 
+Ejemplos: 
+Juhtumid: 
+Tapaukset: 
+דוגמאות: 
+Primjeri: 
+Scenariji: 
+Példák: 
+Dæmi: 
+Atburðarásir: 
+Esempi: 
+サンプル: 
+Pavyzdžiai: 
+Scenarijai: 
+Variantai: 
+Beispiller: 
+Piemēri: 
+Paraugs: 
+Voorbeelden: 
+Przykłady: 
+Exemplos: 
+Cenários: 
+Cenarios: 
+Exemple: 
+Примеры: 
+Exempel: 
+Príklady: 
+Primeri: 
+Сценарији: 
+Örnekler: 
+Приклади: 
+Мисоллар: 
+Dữ liệu: 
+Given 
+بفرض 
+Bagi 
+Дадено 
+Donat 
+Donada 
+Atès 
+Atesa 
+Anrhegedig a 
+Pokud 
+Givet 
+Angenommen 
+Gegeben sei 
+Ya know how 
+I CAN HAZ 
+Gangway! 
+Givun 
+Youse know when youse got 
+Given y'all 
+Donitaĵo 
+Dado 
+Dada 
+Dados 
+Dadas 
+Eeldades 
+Oletetaan 
+Soit 
+Etant donné 
+Etant donnée 
+Etant donnés 
+Etant données 
+Étant donné 
+Étant donnée 
+Étant donnés 
+Étant données 
+בהינתן 
+Zadan 
+Zadani 
+Zadano 
+Amennyiben 
+Adott 
+Dengan 
+Ef 
+Dato 
+Data 
+Dati 
+Date 
+Duota 
+ugeholl 
+Kad 
+Gegeven 
+Stel 
+Gitt 
+Zakładając 
+Mając 
+Date fiind 
+Dat fiind 
+Dati fiind 
+Dați fiind 
+Daţi fiind 
+Допустим 
+Дано 
+Пусть 
+Pokiaľ 
+Zadato 
+Zadate 
+Zatati 
+Задато 
+Задате 
+Задати 
+Diyelim ki 
+Припустимо 
+Припустимо, що 
+Нехай 
+Агар 
+Biết 
+Cho 
+When 
+متى 
+عندما 
+Apabila 
+Когато 
+Quan 
+Pryd 
+Když 
+Når 
+Wenn 
+WEN 
+Blimey! 
+Wun 
+Youse know like when 
+When y'all 
+Se 
+Cuando 
+Kui 
+Kun 
+Quand 
+Lorsque 
+Lorsqu'
+כאשר 
+Kada 
+Kad 
+Majd 
+Ha 
+Amikor 
+Ketika 
+Þegar 
+Quando 
+Kai 
+wann 
+Ja 
+Als 
+Jeżeli 
+Jeśli 
+Gdy 
+Kiedy 
+Cand 
+Când 
+Если 
+Когда 
+När 
+Keď 
+Када 
+Кад 
+Eğer ki 
+Якщо 
+Коли 
+Агар 
+Khi 
+Then 
+اذاً 
+ثم 
+Kemudian 
+То 
+Aleshores 
+Cal 
+Yna 
+Pak 
+Så 
+Dann 
+Ya gotta 
+DEN 
+Let go and haul 
+Dun 
+Den youse gotta 
+Then y'all 
+Do 
+Entonces 
+Siis 
+Niin 
+Alors 
+אז 
+אזי 
+Onda 
+Akkor 
+Maka 
+Þá 
+Allora 
+ならば
+그러면
+Tada 
+dann 
+Tad 
+Dan 
+Wtedy 
+Então 
+Entao 
+Atunci 
+Тогда 
+Tak 
+Онда 
+O zaman 
+Тоді 
+Унда 
+Thì 
+And 
+Dan 
+A také 
+Og 
+Und 
+AN 
+Aye 
+An 
+And y'all 
+Kaj 
+Ja 
+Et 
+וגם 
+És 
+그리고
+Ir 
+an 
+Un 
+En 
+Oraz 
+Si 
+Și 
+Şi 
+К тому же 
+Och 
+Ve 
+А також 
+Та 
+Ва 
+Và 
+But 
+لكن 
+Tetapi 
+Но 
+Però 
+Ond 
+Ale 
+Men 
+Aber 
+Cept 
+BUT 
+Avast! 
+Buh 
+But y'all 
+Sed 
+Pero 
+Kuid 
+Mutta 
+Mais 
+אבל 
+Ali 
+De 
+Tapi 
+En 
+Ma 
+しかし
+ただし
+하지만
+Bet 
+awer 
+mä 
+Maar 
+Mas 
+Dar 
+Али 
+Fakat 
+Ama 
+Але 
+Лекин 
+Бирок 
+Аммо 
+Nhưng 

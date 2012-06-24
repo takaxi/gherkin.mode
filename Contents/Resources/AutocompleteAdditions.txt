@@ -1,0 +1,132 @@
+Feature: 
+Business Need: 
+Ability: 
+خاصية: 
+Funktionalität: 
+Característica: 
+Fonctionnalité: 
+フィーチャ: 
+機能: 
+기능: 
+Funcionalidade: 
+Caracteristica: 
+Функция: 
+Функционал: 
+Свойство: 
+Background: 
+الخلفية: 
+Grundlage: 
+Antecedentes: 
+Contexte: 
+背景: 
+배경: 
+Contexto: 
+Cenário de Fundo: 
+Cenario de Fundo: 
+Fundo: 
+Предыстория: 
+Контекст: 
+Scenario: 
+سيناريو: 
+Szenario: 
+Escenario: 
+Scénario: 
+シナリオ: 
+시나리오: 
+Cenário: 
+Cenario: 
+Сценарий: 
+Scenario Outline: 
+Scenario Template: 
+سيناريو مخطط: 
+Szenariogrundriss: 
+Esquema del escenario: 
+Plan du scénario: 
+Plan du Scénario: 
+シナリオアウトライン: 
+シナリオテンプレート: 
+テンプレ: 
+シナリオテンプレ: 
+시나리오 개요: 
+Esquema do Cenário: 
+Esquema do Cenario: 
+Delineação do Cenário: 
+Delineacao do Cenario: 
+Структура сценария: 
+Examples: 
+Scenarios: 
+امثلة: 
+Beispiele: 
+Ejemplos: 
+Exemples: 
+サンプル: 
+Exemplos: 
+Cenários: 
+Cenarios: 
+Примеры: 
+Given 
+بفرض 
+Angenommen 
+Gegeben sei 
+Dado 
+Dada 
+Dados 
+Dadas 
+Soit 
+Etant donné 
+Etant donnée 
+Etant donnés 
+Etant données 
+Étant donné 
+Étant donnée 
+Étant donnés 
+Étant données 
+前提
+조건
+먼저
+Допустим 
+Дано 
+Пусть 
+When 
+متى 
+عندما 
+Wenn 
+Cuando 
+Quand 
+Lorsque 
+Lorsqu'
+もし
+만일
+만약
+Quando 
+Если 
+Когда 
+Then 
+اذاً 
+ثم 
+Dann 
+Entonces 
+Alors 
+ならば
+그러면
+Então 
+Entao 
+То 
+Тогда 
+And 
+Und 
+Et 
+かつ
+그리고
+К тому же 
+But 
+لكن 
+Aber 
+Pero 
+Mais 
+しかし
+但し
+ただし
+하지만
+Mas 
+Но 

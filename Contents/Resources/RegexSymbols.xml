@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbols>
+    <symbol id="Pragma marks" font-weight="normal" font-style="normal" image="SymbolMark" indentation="0" ignoreblocks="no" show-in-comments="yes">
+        <regex>#\s*(language\s*\:[^\n\r]+)</regex>
+    </symbol>
+~              
+	<symbol id="Features" font-weight="bold" ignoreblocks="yes" indentation="0" image="SymbolF">
+		<regex>^\s*Feature:\s*([^\n\r]+)[\n\r]</regex>
+		<postprocess>
+			<find>[\n\r]</find>
+			<replace> </replace>
+		</postprocess>
+	</symbol>
+	
+	<symbol id="Scenarios" indentation="1" image="SymbolS">
+		<regex>^\s*Scenario:\s*(.*)[\n\r]</regex>
+		<postprocess>
+			<find>[\n\r]</find>
+			<replace> </replace>
+			<find>[ \t]+</find>
+			<replace> </replace>
+		</postprocess>
+	</symbol>
+
+	<symbol id="Scenario Outlines" indentation="1" image="SymbolS">
+		<regex>^\s*Scenario Outlines:\s*(.*)[\n\r]</regex>
+		<postprocess>
+			<find>[\n\r]</find>
+			<replace> </replace>
+			<find>[ \t]+</find>
+			<replace> </replace>
+		</postprocess>
+	</symbol>
+	
+</symbols>
