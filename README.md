@@ -31,10 +31,10 @@ To prevent your confusion with too many candidates, gherkin.mode suggests keywor
 Top Ten Languages Used in the Web(http://www.internetworldstats.com/stats7.htm)
 
 
-If you need to be enable autocomplete function in all languages, go through the following steps.
+If you need to enable autocomplete function in all languages, go through the following steps.
 
-# overwrite gherkin.mode/Contents/Resources/AutocompleteAdditions.txt with gherkin.mode/Contents/Resources/AutocompleteAdditions.txt.full
-# restart Coda 2
+* overwrite gherkin.mode/Contents/Resources/AutocompleteAdditions.txt with gherkin.mode/Contents/Resources/AutocompleteAdditions.txt.full
+* restart Coda 2
 
 ## Author
 
