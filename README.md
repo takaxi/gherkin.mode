@@ -4,7 +4,10 @@ gherkin.mode is a gherkin (which is used for Cucumber's .feature file) syntax de
 
 ### Installation
 
-Please checkout this repository into `~/Library/Application Support/Coda 2/Modes` as gherkin.mode 
+Please checkout this repository into `~/Library/Application Support/Coda 2/Modes` as gherkin.mode.
+
+* `cd ~/Library/Application Support/Coda 2/Modes`
+* `git clone git://github.com/takaxi/gherkin.mode.git`
 
 ## Features
 * Highlight syntax
