@@ -5,13 +5,13 @@
 	<key>CFBundleIdentifier</key>
 	<string>SEEMode.gherkin</string>
 	<key>CFBundleName</key>
-	<string>gherkin</string>
+	<string>Gherkin</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1</string>
+	<string>0.1.1</string>
 	<key>CFBundleVersion</key>
-	<string>0.1</string>
+	<string>0.1.1</string>
 	<key>CFBundleGetInfoString</key>
-	<string>0.1, Kiyotaka NAKAYAMA 2012</string>
+	<string>0.1.1, Kiyotaka NAKAYAMA 2012</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>

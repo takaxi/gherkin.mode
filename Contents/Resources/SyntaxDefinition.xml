@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE syntax SYSTEM "syntax.dtd"[
-<!ENTITY LANGNAME "gherkin">
+<!ENTITY LANGNAME "Gherkin">
 <!ENTITY EOL "[\n\r]">
 <!-- keywords generated on 2012-96-24 -->
 <!ENTITY FEATURE "Feature|Business\ Need|Ability|خاصية|Fungsi|Функционалност|Característica|Funcionalitat|Arwedd|Požadavek|Egenskab|Funktionalität|Crikey|OH\ HAI|Ahoy\ matey!|Trajto|Omadus|Ominaisuus|Fonctionnalité|תכונה|Osobina|Mogućnost|Mogucnost|Jellemző|Fitur|Eiginleiki|Funzionalità|フィーチャ|機能|기능|Savybė|Funktionalitéit|Funkcionalitāte|Fīča|Functionaliteit|Egenskap|Właściwość|Funkcja|Aspekt|Potrzeba\ biznesowa|Funcionalidade|Caracteristica|Functionalitate|Funcționalitate|Funcţionalitate|Функция|Функционал|Свойство|Požiadavka|Funkcionalnost|Могућност|Особина|Özellik|Функціонал|Tính\ năng|功能">
