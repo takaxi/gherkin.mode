@@ -2,6 +2,12 @@
 
 gherkin.mode is a gherkin (which is used for Cucumber's .feature file) syntax definition for Coda 2. 
 
+## Samples
+
+![highlights syntax](http://cdn-ak.f.st-hatena.com/images/fotolife/t/takaxi/20120624/20120624195300.jpg)
+
+![supports i18n](http://cdn-ak.f.st-hatena.com/images/fotolife/t/takaxi/20120624/20120624195259.jpg)
+
 ### Installation
 
 Please checkout this repository into `~/Library/Application Support/Coda 2/Modes` as gherkin.mode.
